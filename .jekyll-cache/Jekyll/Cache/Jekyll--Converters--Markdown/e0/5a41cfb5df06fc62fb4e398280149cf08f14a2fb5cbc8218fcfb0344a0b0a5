@@ -1,0 +1,43 @@
+I"Ä
+<p>Here you will find some projects that Gustavo Mendez has developed; from Machine Learning, to FrontEnd and iOS/Android Apps:</p>
+
+<h2><a href="https://gitlab.com/gustavo31.25/poc-hsbc">Face and Emotion Recognition</a> </h2>
+<p><img width="250" height="400" src="../images/appE.PNG" /><img width="400" height="400" src="../images/compE.png" /></p>
+<p>An iOS app for photos and an Algorithm for Real Time Vide for Face and Emotion Recognition, in which it gives you the percentage of how many emotions you show, it also includes the time you spend at certain area, and between cameras it recognizes your face.</p>
+<video width="700" height="400" controls="" src="../images/IMG_3515.MOV">
+</video>
+<p><br /></p>
+<hr style="height:2px;border-width:0;color:gray;background-color:gray" />
+
+<p><br /></p>
+<h2>Brain Tumor and Covid-19 Classifier</h2>
+<p><img width="400" height="210" src="../images/covid.PNG" /></p>
+<p>A model for classify Brain Tumor with magnetic resonances, it classify the RMI between Edema, Non-enhancing Tumor and enhancing Tumor. On another hand it classifies the X-Ray from patients between covid-19, Viral pneumonia or Bacterial pneumonia </p>
+<p><img width="400" height="210" src="../images/bt2.png" />
+<br /></p>
+<hr style="height:2px;border-width:0;color:gray;background-color:gray" />
+
+<p><br /></p>
+<h2><a href="https://github.com/Gustavo2531/DiappetesiOS" target="_blank">Diappetes</a></h2>
+<p><img width="200" height="410" src="../images/diappetes.PNG" /></p>
+<p>An iOS and Android app of Daily Care of Diabetes, with communication with the Doctor(the Dr. can prescribe medicines and select a diet), a reward plan, also has the options to buy medicines, have information about the disease, the diabetic can also input his food, and it has a discussion forum </p>
+<p><img width="400" height="210" src="../images/bt2.png" /></p>
+<iframe width="700" height="500" src="https://www.youtube.com/embed/EeoGz5o9_D8">
+</iframe>
+<p><br /></p>
+<hr style="height:2px;border-width:0;color:gray;background-color:gray" />
+
+<p><br /></p>
+<h2>Bert Healthcare</h2>
+<p><img width="200" height="410" src="../images/bertA.PNG" /><img width="200" height="410" src="../images/bertA2.PNG" /></p>
+<p>An iOS app and algorithm model using Bert for Question and Answer Healthcare and General Issues</p>
+<p><img width="400" height="210" src="../images/bertC.png" />
+<br /></p>
+<hr style="height:2px;border-width:0;color:gray;background-color:gray" />
+
+<p><br /></p>
+<h2><a href="https://www.npmjs.com/package/react-library-dfg" target="_blank">Dynamic Form Package</a></h2>
+<p><img width="400" height="400" src="../images/dfg.JPG" /></p>
+<p>A package for generating Dynamic Forms for react with Google UI Material. It is published in NPM</p>
+<p><br /></p>
+:ET
