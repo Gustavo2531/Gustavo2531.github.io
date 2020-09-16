@@ -15,16 +15,15 @@ Here you will find some projects that Gustavo Mendez has developed; from Machine
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 <br>
 <h2>Brain Tumor and Covid-19 Classifier</h2>
-<p><img width=400 height=210 src="../images/covid.PNG"/></p>
+<p><img width=400 height=210 src="../images/covid.png"/></p>
 <p>A model for classify Brain Tumor with magnetic resonances, it classify the RMI between Edema, Non-enhancing Tumor and enhancing Tumor. On another hand it classifies the X-Ray from patients between covid-19, Viral pneumonia or Bacterial pneumonia </p>
 <img width=400 height=210 src="../images/bt2.png"/>
 <br>
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 <br>
 <h2><a href="https://github.com/Gustavo2531/DiappetesiOS" target=_blank>Diappetes</a></h2>
-<p><img width=200 height=410 src="../images/diappetes.PNG"/></p>
+<p><img width=200 height=410 src="../images/diappetes.png"/></p>
 <p>An iOS and Android app of Daily Care of Diabetes, with communication with the Doctor(the Dr. can prescribe medicines and select a diet), a reward plan, also has the options to buy medicines, have information about the disease, the diabetic can also input his food, and it has a discussion forum </p>
-<img width=400 height=210 src="../images/bt2.png"/>
 <iframe width="700" height="500"
 src="https://www.youtube.com/embed/EeoGz5o9_D8">
 </iframe>
