@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Certifications
-permalink: /certifications/
+permalink: /about/
 ---
 
 Here you will find the certifications Gustavo Mendez has taken. 
