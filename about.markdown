@@ -6,7 +6,7 @@ permalink: /about/
 
 Here you will find the certifications Gustavo Mendez has taken. 
 
-<details>
+<details open>
     <summary>
         <h2>October 2020</h2>
     </summary>
