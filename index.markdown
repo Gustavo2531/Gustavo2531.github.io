@@ -7,7 +7,7 @@ layout: home
 
 <h1>Gustavo Mendez</h1>
 
-<p><img width=200 height=183 src="../images/gus253124.png"/></p>
+<p><img width=400 height=366 src="../images/gus253124.png"/></p>
 
 Gustavo Mendez is a Computer Science engineer who has been coding since he was 13 years old.
 
