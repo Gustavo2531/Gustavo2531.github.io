@@ -8,6 +8,32 @@ Here you will find the certifications Gustavo Mendez has taken.
 
 <details open>
     <summary>
+        <h2>June 2024</h2>
+    </summary>
+    <p></p>
+    <p>Artificial Intelligence & ChatGPT for Cyber Security 2024: <a href="https://www.udemy.com/certificate/UC-b937a1f6-9f97-4794-853c-1f6dc1b15eff/">License</a></p>
+    <p>Google Gemini for Developers: <a>Credential LinkedIn Learning</a></p>
+</details>
+
+<details open>
+    <summary>
+        <h2>February 2024</h2>
+    </summary>
+    <p></p>
+    <p> The Complete Guide To Google Gemini (With Gemini Ultra!): <a href="https://www.udemy.com/certificate/UC-3bcb1c3b-4fab-4782-b654-d1238c582f3d/">License</a></p>
+</details>
+
+<details open>
+    <summary>
+        <h2>January 2024</h2>
+    </summary>
+    <p></p>
+    <p>LangChain MasterClass- OpenAI LLAMA 2 GPT LLM Apps|| Python: <a href="LangChain MasterClass- OpenAI LLAMA 2 GPT LLM Apps|| Python">License</a></p>
+</details>
+
+
+<details open>
+    <summary>
         <h2>October 2020</h2>
     </summary>
     <p></p>

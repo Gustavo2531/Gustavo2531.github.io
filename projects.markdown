@@ -4,8 +4,16 @@ title: Projects
 permalink: /projects/
 ---
 
-Here you will find some projects that Gustavo Mendez has developed; from Machine Learning, to FrontEnd and iOS/Android Apps:
+Here you will find some projects that Gustavo Mendez has developed; from Machine Learning, Backend, FrontEnd and iOS/Android Apps:
 
+
+<h2><a href="https://gitlab.com/gustavo31.25/poc-hsbc">FeelbyStyle</a> </h2>
+<p>Designed and developed an iOS App for improvement of wellbeing using Music as a catalyst for mood. The app uses the audio features of the song,
+the weather, and the actual mood for autogenerating a playlist that will improve the mood of the user. The audio features of each song were retrieved
+by using the Spotify API and using a Machine Learning model for recognizing the spectrogram of the audio.</p>
+<video width="700" height="400" controls src="../images/videoml.mp4">
+</video>
+<br>
 <h2><a href="https://gitlab.com/gustavo31.25/poc-hsbc">Face and Emotion Recognition</a> </h2>
 <p><img width=250 height=400 src="../images/appE.PNG"/><img width=400 height=400 src="../images/compE.png"/></p>
 <p>An iOS app for photos and an Algorithm for Real Time Vide for Face and Emotion Recognition, in which it gives you the percentage of how many emotions you show, it also includes the time you spend at certain area, and between cameras it recognizes your face.</p>
